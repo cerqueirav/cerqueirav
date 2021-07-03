@@ -16,11 +16,10 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 
-</br> 
 
 ## ⚡ GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=cerqueirav&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=cerqueirav&show_icons=true&count_private=true&show_icons=true&include_all_commits=true) </br> 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cerqueirav&hide=TeX&layout=compact)
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=cerqueirav" alt="cerqueirav" /></p>
