@@ -1,7 +1,5 @@
 ## 👋 About me
 
-<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Victor</h1>
-
 - 🎓 &nbsp; Graduating in Systems Analysis and Development
 - 🌱 &nbsp; I'm learning at the moment **NodeJS**
 
