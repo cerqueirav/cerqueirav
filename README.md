@@ -3,8 +3,8 @@
 I'm learning at the moment **NodeJS**
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-cerqueirav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanael-de-sousa-leite-57980725/)](https://www.linkedin.com/in/victor-cerqueira-8422a9140/)
-[![Instagram Badge](https://img.shields.io/badge/-cerqueirav-gray?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/victorlcer/)](https://www.instagram.com/victorlcer/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanael-de-sousa-leite-57980725/)](https://www.linkedin.com/in/victor-cerqueira-8422a9140/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-gray?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/victorlcer/)](https://www.instagram.com/victorlcer/)
 [![Gmail Badge](https://img.shields.io/badge/-victorcerx@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victorcerx@gmail.com)](mailto:victorcerx@gmail.com)
 
 ## 🚀💻 Technologies & Tools
