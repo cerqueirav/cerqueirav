@@ -1,5 +1,3 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=cerqueirav" alt="cerqueirav" /></p>
-
 ## 👋 About me
 
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Victor</h1>
@@ -26,3 +24,4 @@ I'm learning at the moment **NodeJS**
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=cerqueirav&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cerqueirav&hide=TeX&layout=compact)
 
+<p align="left"><img src="https://komarev.com/ghpvc/?username=cerqueirav" alt="cerqueirav" /></p>
