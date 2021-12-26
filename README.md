@@ -1,7 +1,7 @@
 ## 👋 About me
 
 - 🎓 &nbsp; Graduating in Systems Analysis and Development
-- 🚀 &nbsp; I'm learning at the moment **NodeJS**
+- 🚀 &nbsp; I'm learning at the moment **Dart and Python**
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanael-de-sousa-leite-57980725/)](https://www.linkedin.com/in/victor-cerqueira-8422a9140/)
