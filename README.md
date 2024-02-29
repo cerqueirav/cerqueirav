@@ -1,8 +1,8 @@
 ## 👋 About me
 
-- 🎓 &nbsp; Graduating in Systems Analysis and Development
-- 🚀 &nbsp; I'm learning at the moment **.NET MVC and NHibernate**
-
+- 🚀 &nbsp; Currently pursuing a Master's in Systems and Products Engineering
+- 🎓 &nbsp; Graduated in Systems Analysis and Development
+- 📚 &nbsp; Currently expanding my skills in .NET MVC and Spring Boot
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanael-de-sousa-leite-57980725/)](https://www.linkedin.com/in/victor-cerqueira-8422a9140/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-gray?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/victorlcer/)](https://www.instagram.com/victorlcer/)
