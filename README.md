@@ -1,6 +1,6 @@
 ## 👋 About me
 
-- 🚀 &nbsp; Currently pursuing a Master's in Systems and Products Engineering
+- 🚀 &nbsp; Currently studying a Master's in Systems and Products Engineering
 - 🎓 &nbsp; Graduated in Systems Analysis and Development
 - 📚 &nbsp; Currently expanding my skills in .NET MVC and Spring Boot
 
